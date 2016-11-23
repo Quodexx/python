@@ -1,3 +1,4 @@
+# http://www.codeskulptor.org/#user42_YFGqMkQpSP_0.py
 # computes the area of a triangle
 def triangle_area(base, height):     # header - ends in colon
     area = (1.0 / 2) * base * height   # body - all of body is indented
